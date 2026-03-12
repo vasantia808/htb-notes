@@ -34,5 +34,4 @@ enum4linux -a <target>
 
 ---
 
-*Add to this as I discover new techniques.*
-```
+*Updated as I discover new techniques.*
