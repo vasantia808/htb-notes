@@ -31,3 +31,8 @@ smbclient -L //<target> -N
 # Enumerate with enum4linux
 enum4linux -a <target>
 ```
+
+---
+
+*Add to this as I discover new techniques.*
+```
