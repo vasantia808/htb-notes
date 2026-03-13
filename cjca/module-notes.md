@@ -1,4 +1,4 @@
-# CJCA Module Notes
+# CJCA Study Notes
 
 Personal notes from the HackTheBox Certified Junior Cybersecurity 
 Analyst certification track.
@@ -10,8 +10,18 @@ Analyst certification track.
 
 ## Modules
 
-*Notes will be added here as I progress through each module.*
+| # | Module | Status |
+|---|--------|--------|
+| 07 | [Introduction to Windows Command Line](modules/07-introduction-to-windows-command-line/README.md) | In progress |
 
 ---
 
-*Last updated: 2026-03-11*
+## Note on Content
+
+Notes focus on concepts, techniques, and personal insights. 
+In accordance with HackTheBox guidelines, no challenge solutions 
+or course content is reproduced here.
+
+---
+
+*Last updated: 2026-03-12*
