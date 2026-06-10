@@ -11,7 +11,7 @@ HackTheBox journey and cybersecurity certifications.
 
 | Cert | Status | Target |
 |------|--------|--------|
-| [CJCA](cjca/README.md) | In progress | March 2026 |
+| [CJCA](cjca/README.md) | In progress | July 2026 |
 | [CPTS](cpts/module-notes.md) | In progress | TBD |
 
 ---
